@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770322927.0441 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1770322927.67361 0
-  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" 1770322926.86721 3049 553c65f76de475b25743300f5b13e096 ""
+["pdflatex"] 1770324079.95147 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1770324080.60902 0
+  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" 1770324079.79548 4009 eeb625030a3c552e10fdc10c0b5fc217 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -261,10 +261,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1768074799 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "labNotebook.aux" 1770322927.61805 1088 3a75912471ed0757ed660cae7541e589 "pdflatex"
-  "labNotebook.out" 1770322927.61847 360 18e9d09bed11c497b9216951f94eff28 "pdflatex"
-  "labNotebook.tex" 1770322926.86721 3049 553c65f76de475b25743300f5b13e096 ""
-  "labNotebook.toc" 1770322927.61862 520 994ae79c34824ef0b2378186245cd1b9 "pdflatex"
+  "labNotebook.aux" 1770324080.55194 1088 2601e5b32cdaf4662fb4260e57f65e48 "pdflatex"
+  "labNotebook.out" 1770324080.55236 360 18e9d09bed11c497b9216951f94eff28 "pdflatex"
+  "labNotebook.tex" 1770324079.79548 4009 eeb625030a3c552e10fdc10c0b5fc217 ""
+  "labNotebook.toc" 1770324080.55249 520 3fe63e7214c9f166a8dec8879980147e "pdflatex"
   "william.sty" 1770322277.57312 22330 736b1f4ee6b0683f1c9f2fa9ab8b549d ""
   (generated)
   "labNotebook.aux"

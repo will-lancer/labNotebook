@@ -3,5 +3,5 @@
 \contentsline {subsection}{\numberline {1.1}Experiment: Nuclear Magnetic Resonance}{3}{subsection.1.1}%
 \contentsline {subsubsection}{Sub-experiment one: distilled water}{3}{section*.2}%
 \contentsline {paragraph}{Distilled water: $T_1$}{3}{section*.3}%
-\contentsline {subsubsection}{Sub-experiment Two: Tap Water}{3}{section*.4}%
-\contentsline {subsubsection}{Sub-experiment Three: Water with Metal in It}{3}{section*.5}%
+\contentsline {subsubsection}{Sub-experiment Two: Tap Water}{4}{section*.4}%
+\contentsline {subsubsection}{Sub-experiment Three: Water with Metal in It}{4}{section*.5}%
