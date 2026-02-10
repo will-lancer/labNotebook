@@ -5,4 +5,4 @@
 \contentsline {paragraph}{Distilled water: $T_1$}{3}{section*.3}%
 \contentsline {section}{\numberline {2}Feb 10, 2026}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Sub-experiment: mineral oil}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Enter Professor Du}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Enter Professor Du, the King of NMR™ \raisebox {-0.1em}{\mbox {$\resizebox {.16in}{.16in}{\includegraphics {assets/duMeister.jpeg}}$}}}{4}{subsection.2.2}%

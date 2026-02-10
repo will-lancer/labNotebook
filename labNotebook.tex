@@ -133,12 +133,12 @@ Now we tried to measure $T_1$ for distilled water, but this was very hard:
         Everything should be in the test kit -- usually I will suggest you use the
         mineral oil first, and then the rubber.
     \end{quote}
-    \item Whoops! Literally everyone in the lab thought that Prof. Du was Prof. Liu,
-    so that's a bit funny.
+    \item Whoops! Literally everyone in the lab thought that Prof. Du was Prof. Liu.
+    \#rip. \#duNotLiu.
     \item Anyway, time to continue with this experiment.
 \end{itemize}
 
-Ok, we're going to switch our experiemnt to mineral oil on Prof. Liu's
+Ok, we're going to switch our experiment to mineral oil on Prof. Liu's
 recommendation.
 
 \subsection{Sub-experiment: mineral oil}
@@ -146,8 +146,8 @@ recommendation.
 We're using the light mineral oil. Time to re-measure all of our stuff!
 \begin{itemize}
     \item RF frequency matching: $21.11319 \pm 0.00001 \, \mathrm{MHz}$.
-    \item $\pi/2$ pulse: $4.48 \pm 0.005 \, \mu \mathrm{s}$.
-    \item $\pi$ pulse: $9.12 \pm 0.005 \, \mu \mathrm{s}$.
+    \item $\pi/2$ pulse: $ \pm 0.005 \, \mu \mathrm{s}$.
+    \item $\pi$ pulse: $6.76 \pm 0.005 \, \mu \mathrm{s}$.
 \end{itemize}
 
 We think that we want an $A$ pulse and then a $B$ pulse. The former being
@@ -157,21 +157,36 @@ we can put just one $B$ pulse. We did that, but when we vary $\tau$, we don't
 see the amplitude of $B$ change; this isn't what we expected, as we'd expect the
 curve to follow the equation $\sim 1 - e^{-\tau/T_1}$.\\
 
-\subsection{Enter Professor Du}
+\subsection{Enter Professor Du, the King of NMR™ \du}
 
 We called Prof. Du over and he determined after some debugging that
 we were way off our resonance frequency. We were using the previous
 value, but he determined that it should be $21.00854 \pm 0.00001 \, \mathrm{MHz}$.
 The $A$ pulse and $B$ pulses were wrong because we were off resonance:
-the new ones are $A = 6.72 \pm 0.005 \, \mu \mathrm{s}$ and $B = 2.60 \pm 0.005 \, \mu \mathrm{s}$.
-\begin{align*}
-    \textbf{NOTE: ALL OF THESE VALUES ARE FOR BEESWAX, NOT MINERAL OIL.}
-\end{align*}
+the new ones are $A = 6.72 \pm 0.005 \, \mu \mathrm{s}$ and $B = 2.60 \pm 0.005 \, \mu \mathrm{s}$.\\
+
+\begin{centering}
+    \textbf{NOTE: ALL OF THESE VALUES ARE FOR BEESWAX, NOT MINERAL OIL.\\
+    Xu ``The Goat of NMR'' Du switched us to that material in his infinite wisdom.}
+\end{centering}\\
+
 The lesson from this is that the vertical scale of the blue line was \emph{super}
 zoomed out; because of this, I tuned it to what seeemd tiniest but it was wayyyy
 off. So, make your vertical and horizontal scales fit the scales at hand or else
 you will get cooked.
 
+Great. I then was curious about what the period was and why moving it around
+shifted the amplitude of the $B$ pulse, so we called over Prof. Du again
+and he explained it to us. We then increased the period from $100 \mathrm{ms}$
+to $600 \mathrm{ms}$ because the relaxation time of oil is kinda long.
 
+After switching the period, I noticed the frequency was looking sus
+and a little bit beatastic, so we changed it again to make it not beating:
+
+\begin{itemize}
+    \item RF frequency matching: $21.00740 \pm 0.00001 \, \mathrm{MHz}$.
+    \item $\pi/2$ pulse: $6.76 \pm 0.005 \, \mu \mathrm{s}$.
+    \item $\pi$ pulse: $3.36 \pm 0.005 \, \mu \mathrm{s}$.
+\end{itemize}
 
 \end{document}
