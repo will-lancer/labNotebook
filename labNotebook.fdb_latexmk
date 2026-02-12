@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770754559.9425 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1770754560.62176 0
-  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" 1770754559.76147 7134 545cc65b1f4536f3a2d58a8fad32a90f ""
+["pdflatex"] 1770926818.65265 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1770926819.43929 0
+  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_DaoEtAl/labNotebook/labNotebook.tex" 1770926817.64233 9261 fa5f56f7624a2b866aa5c4f34def3cbb ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -268,10 +268,14 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "assets/duMeister.jpeg" 1770754136.14744 5182 737d9bc99628d6dc75115ec3597c3329 ""
-  "labNotebook.aux" 1770754560.56017 1325 443128c197099f76354f0abd61e7e30f "pdflatex"
-  "labNotebook.out" 1770754560.56064 1088 584cba405b74452731f4b09679112e3d "pdflatex"
-  "labNotebook.tex" 1770754559.76147 7134 545cc65b1f4536f3a2d58a8fad32a90f ""
-  "labNotebook.toc" 1770754560.56079 714 12e1fdec46a7a78f56765f545ae42023 "pdflatex"
+  "assets/output-5.png" 1770926477.48268 44691 b75974e2cd1bc279bd87cb929c497eb0 ""
+  "assets/output-6.png" 1770926477.48047 43427 af2ec5ecf17566ed03b0df43698edb22 ""
+  "assets/output-7.png" 1770926804.06053 48059 c1af820ebc374c93f23c215020339663 ""
+  "assets/output-8.png" 1770926804.053 42561 67275553bd50dbc13b023bda615fb9f6 ""
+  "labNotebook.aux" 1770926819.37439 2532 44c80467e46303b250c045071237ff06 "pdflatex"
+  "labNotebook.out" 1770926819.37491 1633 6382b75d3688047285f15d9a34ac9c05 "pdflatex"
+  "labNotebook.tex" 1770926817.64233 9261 fa5f56f7624a2b866aa5c4f34def3cbb ""
+  "labNotebook.toc" 1770926819.37505 1033 266b669a4ee329514573bfc3b84fe293 "pdflatex"
   "william.sty" 1770754260.31835 22455 36aa33be5738706d751fdabdeecba280 ""
   (generated)
   "labNotebook.aux"
