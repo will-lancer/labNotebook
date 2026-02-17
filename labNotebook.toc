@@ -10,3 +10,6 @@
 \contentsline {subsection}{\numberline {3.1}Beeswax $T_1$ measurement}{5}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Nevermind, fml}{5}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Beeswax, pt. 2}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Feb 17, 2026}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Spin-echo: light mineral oil}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Beeswax-maxxing}{9}{subsection.4.2}%
