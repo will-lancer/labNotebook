@@ -341,4 +341,81 @@ Tables type shit!
 
 We are the goats of NMR, part 2.
 
+\section{Feb 19, 2026}
+
+Back at it again. We just need to measure $T_2$ today, and then
+we are free from the shackles of NMR. The midlab report is due
+today; Alo submitted it for us. She now knows how to use Git,
+which is great.
+
+I believe the way you measure $T_2$ is by pulsing a $\pi/2$ pulse
+and just waiting for the voltage to decay back to zero. Then you fit
+that to $e^{-t/T_2}$ and you're done. Let's check with Du to see if that's
+Tru.
+
+We checked with Du: this is indeed Tru. Time to Mu-ve on!
+
+\subsection{Light mineral oil: $T_2$}
+
+The orangutans we share this experiment with messed
+up the stuff on the scope and with the light mineral
+oil sample. We now get to clean up their mess.
+
+Relevant values:
+\begin{itemize}
+    \item RF: $21.01596 \pm 0.00001 \, \mathrm{MHz}$.
+    \item $\pi/2$: $4.08 \pm 0.005 \, \mu \mathrm{s}$.
+    \item Period: $600$
+\end{itemize}
+
+We had to put the ring on the sample quite low to avoid a big shoulder.
+This wasn't the case before, but the other people on this experiment
+completely messed up the same and didn't store it correctly, so the
+light mineral oil wasn't concentrated entirely at the bottom of the
+tube. This lowered the measured voltage, but shouldn't be a big deal.
+
+We got this picture from the scope, and this curve was fit to it
+by my bestie ChatGPT 5.2 Extended Thinking. Samriddhi was goated
+and let us use her personal flashdrive to get this data, and the
+previous data.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/rawT2datalightmineraloil.png}
+    \caption{Raw $T_2$ data for light mineral oil}
+    \label{fig:raw_t_2_data_light_mineral_oil}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/fittedt2lightmineraloil.png}
+    \caption{$T_2$ data for light mineral oil, fit to $e^{-t/T_2}$ curve. $T_2 = 2.15 \pm 0.05 \, \mathrm{ms}$.}
+    \label{fig:t_2_data_light_mineral_oil}
+\end{figure}
+
+\subsection{Beeswax: $T_2$}
+
+Relevant values:
+\begin{itemize}
+    \item RF: $21.01245 \pm 0.00001 \, \mathrm{MHz}$.
+    \item $\pi/2$: $4.10 \pm 0.005 \, \mu \mathrm{s}$.
+    \item Period: $700 \pm 0.5 \, \mathrm{ms}$.
+\end{itemize}
+
+Note that each horizontal block on the raw data below is 50 microseconds long.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/rawT2dataBeeswax.png}
+    \caption{Raw $T_2$ data for beeswax}
+    \label{fig:raw_t_2_data_beeswax}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/fittedt2Beeswax.png}
+    \caption{$T_2$ data for beeswax, fit to $e^{-t/T_2}$ curve}
+    \label{fig:t_2_data_beeswax}
+\end{figure}
+
 \end{document}

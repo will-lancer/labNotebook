@@ -13,3 +13,6 @@
 \contentsline {section}{\numberline {4}Feb 17, 2026}{8}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Spin-echo: light mineral oil}{8}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Beeswax-maxxing}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Feb 19, 2026}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Light mineral oil: $T_2$}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Beeswax: $T_2$}{12}{subsection.5.2}%

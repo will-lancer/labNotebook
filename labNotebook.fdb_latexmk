@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1771357339.72908 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1771357340.67957 0
-  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" 1771357339.46514 11572 7d935e79e111bc5d30f5ddda171f15a0 ""
+["pdflatex"] 1771528951.87535 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1771528952.82312 0
+  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" 1771528951.70328 14238 cac6405652b6620d5c763691210c7ee7 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -271,16 +271,20 @@
   "assets/NewFile1AACC.png" 1771356712.68559 40094 4dbea6d67338db89e98d5019a791fb98 ""
   "assets/NewFileALO.png" 1771355383.66079 41372 466f87571f488059edd8f71b9ad9bbf5 ""
   "assets/duMeister.jpeg" 1770754136.14744 5182 737d9bc99628d6dc75115ec3597c3329 ""
+  "assets/fittedt2Beeswax.png" 1771528883.65098 66836 e34c3d2a90746c20d747e7ec77a32ec1 ""
+  "assets/fittedt2lightmineraloil.png" 1771527920.68641 67104 1a6b440656af279c4022a0966fe7cbf8 ""
   "assets/output-5.png" 1770926477.48268 44691 b75974e2cd1bc279bd87cb929c497eb0 ""
   "assets/output-6.png" 1770926477.48047 43427 af2ec5ecf17566ed03b0df43698edb22 ""
   "assets/output-7.png" 1770926804.06053 48059 c1af820ebc374c93f23c215020339663 ""
   "assets/output-8.png" 1770926804.053 42561 67275553bd50dbc13b023bda615fb9f6 ""
+  "assets/rawT2dataBeeswax.png" 1771528871.62949 39248 a9919f21b32aa738a6f7464961259636 ""
+  "assets/rawT2datalightmineraloil.png" 1771526244.32014 40621 ce6f64511feaf8f965788dedca08aa7f ""
   "assets/spinEchoBeeswax.png" 1771357336.24692 67959 4c2ccb1b9c535490807c6315b8064609 ""
   "assets/spinEchoLightMineralOil.png" 1771355243.04531 69068 e0ad310ef1db54b05d002e68f370ba76 ""
-  "labNotebook.aux" 1771357340.60919 3837 37515cb99d5d9abadfa9eded169c79c5 "pdflatex"
-  "labNotebook.out" 1771357340.60978 2083 0ef6843e3c7e1a3e29dab0bc99dfbbb5 "pdflatex"
-  "labNotebook.tex" 1771357339.46514 11572 7d935e79e111bc5d30f5ddda171f15a0 ""
-  "labNotebook.toc" 1771357340.60991 1276 488bf1c5436135785c10494a4c9331b7 "pdflatex"
+  "labNotebook.aux" 1771528952.75658 5329 cf57cb44cb96af73c62d5cb3fa558cde "pdflatex"
+  "labNotebook.out" 1771528952.75722 2481 1d154eb640ccc725075ff8fe2501e79c "pdflatex"
+  "labNotebook.tex" 1771528951.70328 14238 cac6405652b6620d5c763691210c7ee7 ""
+  "labNotebook.toc" 1771528952.75736 1517 74fcac143986e2fe202093b35639f89c "pdflatex"
   "william.sty" 1770754260.31835 22455 36aa33be5738706d751fdabdeecba280 ""
   (generated)
   "labNotebook.aux"
