@@ -192,7 +192,7 @@ and a little bit beatastic, so we changed it again to make it not beating:
 \section{Feb 12, 2026}
 
 Got into lab. Eric and friends did some bullshit to the scope and
-the whatever frequenct setter thing. We fixed it, and switched the
+the whatever frequency setter thing. We fixed it, and switched the
 RF frequency to: $21.01509 \pm 0.00001 \, \mathrm{MHz}$.
 
 We are now going to determine $T_1$ for the light mineral oil.
@@ -417,5 +417,49 @@ Note that each horizontal block on the raw data below is 50 microseconds long.
     \caption{$T_2$ data for beeswax, fit to $e^{-t/T_2}$ curve}
     \label{fig:t_2_data_beeswax}
 \end{figure}
+
+\section{Feb 26, 2026}
+
+We are back at it again. We are done with the experiment. Du encouraged
+us to do more samples, so we are going to do that now.
+
+We are going to do high-strength Neoprene (129N13).
+
+\subsection{High-strength Neoprene: $T_2$}
+
+We are going to do the $T_2$ measurement for high-strength Neoprene
+now. Recall that the way to do this it to apply a $\pi/2$ pulse
+and export the graph and fit it to $e^{-t/T_2}$. 
+
+We took the picture but then I pressed a button that
+messed up literally everything on the scope. So had
+to call Du over and retake things.
+
+Relevant values:
+\begin{itemize}
+    \item RF frequency matching: $21.01270 \pm 0.00001 \, \mathrm{MHz}$.
+    \item $\pi/2$ pulse: $3.40 \pm 0.005 \, \mu \mathrm{s}$.
+    \item Period: $650 \pm 0.5 \, \mathrm{ms}$.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/rawT2dataNeoprene.png}
+    \caption{Raw $T_2$ data for high-strength Neoprene}
+    \label{fig:raw_t_2_data_neoprene}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/fittedt2Neoprene.png}
+    \caption{$T_2$ data for high-strength Neoprene, fit to $e^{-t/T_2}$ curve.}
+    \label{fig:t_2_data_neoprene}
+\end{figure}
+
+We tried to measure $T_1$ for the high-strength Neoprene, but the
+scope's trigger was super weird. We tried to fix it for a while,
+and both of the TAs did as well. It didn't work. We tried to get
+Du, but he was gone. So we just left.
+
 
 \end{document}
