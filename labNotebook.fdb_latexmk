@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1772567852.87064 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1772567854.30821 0
-  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" 1772567851.27699 17828 fc377c2cc0279fcfa6edb4c8831899c6 ""
+["pdflatex"] 1772741484.38754 "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" "labNotebook.pdf" "labNotebook" 1772741485.87926 0
+  "/Users/wlancer/Desktop/Physics/Semesters/Spring26/PHY_445_Spr26/labNotebook/labNotebook.tex" 1772741484.82438 18960 638978377782f581a8c917743a0feec6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -288,10 +288,10 @@
   "assets/spinEchoLightMineralOil.png" 1771355243.04531 69068 e0ad310ef1db54b05d002e68f370ba76 ""
   "assets/t2prime_fitted_data.png" 1772567849.07484 215704 fe28b5b7ee6535c887eb0abee9105712 ""
   "assets/t2prime_neoprene_rawdata.png" 1772566811.61081 47415 4651da62d7b6ee90ba660e662c7040a6 ""
-  "labNotebook.aux" 1772567854.2361 7440 1fa93bb2993313bf56f41c74754cd19e "pdflatex"
-  "labNotebook.out" 1772567854.23696 3293 157108035123b65916358c197dcd438d "pdflatex"
-  "labNotebook.tex" 1772567851.27699 17828 fc377c2cc0279fcfa6edb4c8831899c6 ""
-  "labNotebook.toc" 1772567854.23716 1945 0f4fc824625fc45d8d742f8261f3631a "pdflatex"
+  "labNotebook.aux" 1772741485.80247 7796 aea03f7f9446837a544be323f14bf357 "pdflatex"
+  "labNotebook.out" 1772741485.80329 3672 90b4d711c1cd4c941fcf9de697d7d39e "pdflatex"
+  "labNotebook.tex" 1772741484.82438 18960 638978377782f581a8c917743a0feec6 ""
+  "labNotebook.toc" 1772741485.80346 2178 4c0ef4089765a5dcd047a2ec92fa4c45 "pdflatex"
   "william.sty" 1770754260.31835 22455 36aa33be5738706d751fdabdeecba280 ""
   (generated)
   "labNotebook.aux"

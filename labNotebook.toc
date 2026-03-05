@@ -21,3 +21,6 @@
 \contentsline {section}{\numberline {7}March 3, 2026}{14}{section.7}%
 \contentsline {subsection}{\numberline {7.1}High-strength Neoprene: $T_1$}{15}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}High-strength Neoprene: $T_2'$}{16}{subsection.7.2}%
+\contentsline {section}{\numberline {8}March 5, 2026}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}X-ray diffraction}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Fluorescence}{18}{subsection.8.2}%
