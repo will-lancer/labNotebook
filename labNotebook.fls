@@ -572,6 +572,11 @@ INPUT ./assets/t2prime_fitted_data.png
 INPUT ./assets/t2prime_fitted_data.png
 INPUT ./assets/t2prime_fitted_data.png
 INPUT ./assets/t2prime_fitted_data.png
+INPUT ./assets/diff_35-24kV.png
+INPUT ./assets/diff_35-24kV.png
+INPUT ./assets/diff_35-24kV.png
+INPUT ./assets/diff_35-24kV.png
+INPUT ./assets/diff_35-24kV.png
 INPUT labNotebook.aux
 INPUT ./labNotebook.out
 INPUT ./labNotebook.out

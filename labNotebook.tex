@@ -567,10 +567,60 @@ We did the set-up detailed in the lab manual and collected
 data for the FeZn sample. We will do the rest of fluorescence
 next time.
 
+\section{March 10, 2026}
 
+I'm sick today, so Alo is doing all of the equipment-touching.
+I'm just coaching her through it and doing the data analysis.
 
+Alo set up the X-ray fluorescence set-up, adjusted things to be
+$5.5 \unit{cm}$, and then started things up.
 
+I had Chat 5.4 Extended Thinking fit the data to the set of linear
+curves we want and make a table from the data as well. We got
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{assets/diff_35-24kV.png}
+    \caption{Linear fit lines for $35-24 \unit{kV}$ sweeps.}
+    \label{fig:diff_35-24kV}
+\end{figure}
+
+\begin{table}[H]
+    \centering
+    \renewcommand{\arraystretch}{1.2}
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    \textbf{Voltage (kV)} & \textbf{Slope (Counts/deg)} & $\boldsymbol{\sigma_{\mathrm{Slope}}}$ & \textbf{y-intercept (counts)} & $\boldsymbol{\sigma_{\mathrm{intercept}}}$ \\
+    \hline
+    35 & 1196.95 & 25.66 & -4152.67 & 93.10 \\ \hline
+    34 & 995.83  & 23.03 & -3579.30 & 85.65 \\ \hline
+    33 & 1025.46 & 31.43 & -3822.32 & 124.35 \\ \hline
+    32 & 913.26  & 24.57 & -3509.83 & 99.90 \\ \hline
+    31 & 799.99  & 21.64 & -3172.94 & 89.61 \\ \hline
+    30 & 699.66  & 18.42 & -2860.99 & 77.26 \\ \hline
+    29 & 690.37  & 20.15 & -2937.61 & 89.51 \\ \hline
+    28 & 582.29  & 15.26 & -2553.74 & 69.07 \\ \hline
+    27 & 526.24  & 14.66 & -2406.54 & 69.39 \\ \hline
+    26 & 478.72  & 14.58 & -2276.89 & 72.22 \\ \hline
+    25 & 406.30  & 13.93 & -2007.01 & 72.06 \\ \hline
+    24 & 389.65  & 12.63 & -2013.80 & 67.37 \\ \hline
+    \end{tabular}
+    \caption{Fitted Parameters and Uncertainties for Each Voltage}
+    \label{tab:xrd_fit_parameters}
+\end{table}
+
+We took fluorescence data, but then realized that it was
+around half the size that it should be (i.e. half the
+number of counts), but its shape is qualitative what we'd
+expect (four peaks; two sets of two peaks, one big, one small). 
+
+We asked Kevin O'Shea why this was,
+and he said it may be because we are using the collimated
+emitter. We switched out our collimated emitter for the
+circular one, and re-ran our data on the FeZn sample.
+
+It is much better. Its counts are very high, around 3x of
+what they were before.
 
 
 \end{document}
